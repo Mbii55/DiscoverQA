@@ -59,7 +59,7 @@ To install the project, follow these steps:
 3. Navigate to the project directory:
    
    ```
-   cd your-project-name
+   cd DiscoverQA
    ```
 3. Install dependencies:
    
